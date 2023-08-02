@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <a href="https://syk531.tistory.com" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
-
-<img src="https://img.shields.io/badge/syk531@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-
 <a href="http://syk531.hopto.org" target="_blank">
   <img src="https://img.shields.io/badge/syk531.hopto.org-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/syk531@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+
