@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/syk531.hopto.org-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/syk531@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk531&show_icons=true&theme=radical)
