@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Naver-syk531@naver.com-03C75A?style=flat-square&logo=N&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver-syk531@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
