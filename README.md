@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <a href="https://syk531.tistory.com" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
+
+<img src="https://img.shields.io/badge/Naver-syk531@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+
