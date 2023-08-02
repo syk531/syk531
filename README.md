@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 <a href="http://syk531.hopto.org" target="_blank">
   <img src="https://img.shields.io/badge/syk531.hopto.org-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/syk531@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/syk531@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
