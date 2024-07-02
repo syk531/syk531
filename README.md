@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 </a>
 <img src="https://img.shields.io/badge/syk531@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk531)](https://solved.ac/syk531)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk531&show_icons=true&theme=dracula)
