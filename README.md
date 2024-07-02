@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk531)](https://solved.ac/syk531)
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syk531&layout=compact&theme=dracula)
